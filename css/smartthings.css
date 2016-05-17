@@ -1,5 +1,6 @@
 body {
   font-family: 'San Francisco', 'Roboto', 'Arial';
+  margin:0;
 }
 
 .container {
@@ -9,6 +10,12 @@ body {
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
+  
+  fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
 
 .textBar {
   font-size: 4vw;
