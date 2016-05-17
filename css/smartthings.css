@@ -28,7 +28,7 @@ body {
   clear: left;
 }
 
-#header {
+.header {
   font-size: 6vw;
   width: 100%;
   text-align: center;
@@ -172,7 +172,7 @@ box-shadow: 1px 1px 3px #000;
     box-shadow: inset 0 0px rgba(0, 0, 0, 0.25), inset 0 0px rgba(0, 0, 0, 0.25);
     padding: 4px;
   }
-  
+
   .flat-table th {
     -webkit-font-smoothing: antialiased;
     color: #f5f5f5;
@@ -193,12 +193,12 @@ box-shadow: 1px 1px 3px #000;
     -moz-transition: background 0.3s, box-shadow 0.3s;
     transition: background 0.3s, box-shadow 0.3s;
   }
-  
+
   .img-table {
     width: 100%;
     height: 100%;
   }
-  
+
   .img-table tr {
     text-align: center;
   }
@@ -220,8 +220,8 @@ box-shadow: 1px 1px 3px #000;
     width: 19.99%;
     font-size: 3.6vmax;
   }
-  
-  
+
+
 .r33 {
   width: 33%;
   vertical-align: top;
@@ -248,8 +248,8 @@ box-shadow: 1px 1px 3px #000;
   .datetime {
     font-size: 3.4vmax;
   }
-  
-  
+
+
   .battImg {
     width:30px; height:15px;
   }
