@@ -2,7 +2,7 @@ body {
   font-family: 'San Francisco', 'Roboto', 'Arial';
 }
 
-#textBar {
+.textBar {
   font-size: 4vw;
   font-weight: bold;
   text-align: center;
@@ -10,7 +10,7 @@ body {
   color: #f5f5f5;
 }
 
-#alertBar, #alertBar a {
+.alertBar, .alertBar a {
   font-size: 6vw;
   font-weight: bold;
   text-align: center;
@@ -93,26 +93,6 @@ hr {
   height: 1px;
 }
 
-.r33 {
-  width: 33%;
-  vertical-align: top;
-  font-size: 3vw;
-  padding: 3px;
-  text-align: center;
-}
-
-.r50 {
-  width: 48%;
-}
-
-.r100{
-  width: 100%;
-  vertical-align: top;
-  font-size: 3vw;
-  padding: 3px;
-  text-align: center;
-}
-
 .topModal, .bottomModal {
 position: fixed;
 font-family: 'San Francisco', 'Roboto', 'Arial';
@@ -179,3 +159,101 @@ box-shadow: 1px 1px 3px #000;
 }
 
 .close:hover { background: #00d9ff; }
+
+ .flat-table {
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+  }
+
+  .flat-table th,
+  .flat-table td {
+    box-shadow: inset 0 0px rgba(0, 0, 0, 0.25), inset 0 0px rgba(0, 0, 0, 0.25);
+    padding: 4px;
+  }
+  
+  .flat-table th {
+    -webkit-font-smoothing: antialiased;
+    color: #f5f5f5;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    background: #00a1db;
+  }
+
+  .flat-table td {
+    color: grey;
+    text-shadow: 0 0 1px rgba(255, 255, 255, 0.1);
+    text-align: center;
+  }
+
+  .flat-table tr {
+    -webkit-transition: background 0.3s, box-shadow 0.3s;
+    -moz-transition: background 0.3s, box-shadow 0.3s;
+    transition: background 0.3s, box-shadow 0.3s;
+  }
+  
+  .img-table {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img-table tr {
+    text-align: center;
+  }
+  .h40 {
+    width: 39.99%;
+    font-weight: bold;
+    font-size: 3.2vmax;
+  }
+  .h20 {
+    width: 19.99%;
+    font-weight: bold;
+    font-size: 3.4vmax;
+  }
+  .r40 {
+    width: 39.99%;
+    font-size: 3.6vmax;
+  }
+  .r20 {
+    width: 19.99%;
+    font-size: 3.6vmax;
+  }
+  
+  
+.r33 {
+  width: 33%;
+  vertical-align: top;
+  font-size: 3vw;
+  padding: 3px;
+  text-align: center;
+}
+
+.r50 {
+  width: 48%;
+}
+
+.r100{
+  width: 100%;
+  vertical-align: top;
+  font-size: 3vw;
+  padding: 3px;
+  text-align: center;
+}
+
+  .rowLong {
+    font-size: 3.2vmax;
+  }
+  .datetime {
+    font-size: 3.4vmax;
+  }
+  
+  
+  .battImg {
+    width:30px; height:15px;
+  }
+  .alarmImg {
+    vertical-align: top;
+    width:60px; height:60px;
+  }
