@@ -2,7 +2,7 @@ body {
   font-family: 'San Francisco', 'Roboto', 'Arial';
 }
 
-#header {
+#textBar {
   font-size: 4vw;
   font-weight: bold;
   text-align: center;
@@ -10,7 +10,7 @@ body {
   color: #f5f5f5;
 }
 
-#alert, #alert a {
+#alertBar, #c a {
   font-size: 6vw;
   font-weight: bold;
   text-align: center;
@@ -28,7 +28,7 @@ body {
   clear: left;
 }
 
-#city {
+#header {
   font-size: 6vw;
   width: 100%;
   text-align: center;
