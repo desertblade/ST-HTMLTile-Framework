@@ -296,3 +296,11 @@ box-shadow: 1px 1px 3px #000;
   .r10                 { width: 82.6666666667%; }
   .r11               { width: 91.3333333333%; }
   .r12               { width: 100%; margin-left: 0; }
+
+
+.container:after,
+.row:after,
+.u-cf {
+  content: "";
+  display: table;
+  clear: both; }
