@@ -257,3 +257,17 @@ box-shadow: 1px 1px 3px #000;
     vertical-align: top;
     width:60px; height:60px;
   }
+
+
+  .r1                    { width: 4.66666666667%; }
+  .r2                 { width: 13.3333333333%; }
+  .r3                { width: 22%;            }
+  .r4                   { width: 30.6666666667%; }
+  .r5                  { width: 39.3333333333%; }
+  .r6                    { width: 48%;            }
+  .r7                  { width: 56.6666666667%; }
+  .r8                { width: 65.3333333333%; }
+  .r9              { width: 74.0%;          }
+  .r10                 { width: 82.6666666667%; }
+  .r11               { width: 91.3333333333%; }
+  .r12               { width: 100%; margin-left: 0; }
