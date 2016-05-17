@@ -289,7 +289,7 @@ box-shadow: 1px 1px 3px #000;
   .r3                { width: 22%;            }
   .r4                   { width: 30.6666666667%; }
   .r5                  { width: 39.3333333333%; }
-  .r6                    { width: 48%;            }
+  .r6                    { width: 48%;    box-sizing: border-box;         }
   .r7                  { width: 56.6666666667%; }
   .r8                { width: 65.3333333333%; }
   .r9              { width: 74.0%;          }
