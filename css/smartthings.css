@@ -184,21 +184,8 @@ box-shadow: 1px 1px 3px #000;
     transition: background 0.3s, box-shadow 0.3s;
   }
 
-  .img-table {
-    width: 100%;
-    height: 100%;
-  }
-
-  .img-table tr {
-    text-align: center;
-  }
-
-  .rowLong {
-    font-size: 3.2vmax;
-  }
-
   .dateTimeText {
-    font-size: 3.4vmax;
+    font-size: 3.4vw;
   }
 
   .battImg {
