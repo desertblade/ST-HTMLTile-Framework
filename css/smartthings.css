@@ -248,6 +248,7 @@ box-shadow: 1px 1px 3px #000;
   width: 100%;
   float: left;
   box-sizing: border-box;
+    margin-left: 4%; 
   }
 
   .one.column,
