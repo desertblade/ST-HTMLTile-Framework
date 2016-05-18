@@ -38,11 +38,14 @@ h1, h2, h3, h4, h5, h6 {
   width: 80%;
 }
 
+.bottomBorder {
+    border-bottom: 2px solid #808080;
+}
+
 h1 {
   font-size: 6vw;
   width: 100%;
   text-align: center;
-  border-bottom: 2px solid #808080;
 }
 
 h2 {
