@@ -150,9 +150,10 @@ box-shadow: 1px 1px 3px #000;
 
 .close:hover { background: #00d9ff; }
 
- .flat-table {
+ table {
     border: none;
     border-radius: 3px;
+    width:100%;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
   }
