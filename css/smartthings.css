@@ -1,6 +1,7 @@
 body {
   font-family: 'San Francisco', 'Roboto', 'Arial';
   margin:0;
+  font-size: 4vw;
 }
 
 div {
@@ -76,41 +77,6 @@ h4 {
 .centerText {
   text-align: center;
 }
-
-#weatherInfo {
-  text-align: left;
-}
-
-#leftData {
-  width: 98%;
-  float: left;
-  clear: left;
-}
-
-#data {
-  font-size: 4vw;
-  padding: 5px;
-}
-
-#forecast {
-  border-top: 2px solid #00a1db;
-  clear: left;
-  padding: 5px;
-}
-
-#day {
-  width: 30%;
-  float: left;
-}
-
-#station {
-padding:auto;
-}
-
-#weatherIcon {
-  text-align: center;
-}
-
 
 hr {
   background: #00a1db;
