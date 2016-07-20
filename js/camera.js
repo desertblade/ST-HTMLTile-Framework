@@ -1,4 +1,4 @@
-$('.button').click(function(e){
+$('.sw').click(function(e){
     var show = $(this).attr("data-show-id");
     var hide = $(this).attr("data-hide-id");
     
