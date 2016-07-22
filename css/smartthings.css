@@ -27,12 +27,9 @@ div {
   width: 100%;
 }
 
-.dual-header{
-    width: 90%;
-    float: left;
-    overflow-y: auto;
-    overflow-x: hidden;
-    margin-bottom: 15px;
+.hideable{
+ style.display = 'block';
+ display: none;  
 }
 
 fieldset {
@@ -275,12 +272,4 @@ box-shadow: 1px 1px 3px #000;
 .row {
   width:100%;
   margin:2px;
-}
-
-#secondary{
-  display: none;  
-}
-
-#primary{
-  display: none;  
 }
