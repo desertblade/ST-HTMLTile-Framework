@@ -28,7 +28,7 @@ div {
 }
 
 .hideable{
- style.display = none;
+ transition: all ease 2s;
 }
 
 
