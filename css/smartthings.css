@@ -28,9 +28,9 @@ div {
 }
 
 .hideable{
- style.display = 'block';
- display: none;  
+ style.display = none;
 }
+
 
 fieldset {
   border: 1px solid #c0c0c0;
