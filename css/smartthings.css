@@ -274,7 +274,6 @@ box-shadow: 1px 1px 3px #000;
   margin:2px;
 }
 
-.width-150px{
-    width: 150px;
-    display: inline-block;
+red{
+  background-color=#db3a00;
 }
