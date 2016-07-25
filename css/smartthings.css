@@ -13,6 +13,8 @@ div {
     border: none;
     color: white;
     padding: 15px 25px;
+    margin-top: 10x;
+    margin-bottom: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -275,5 +277,5 @@ box-shadow: 1px 1px 3px #000;
 }
 
 red{
-  background-color=#db3a00;
+  background-color:#db3a00;
 }
