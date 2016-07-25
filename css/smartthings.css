@@ -276,6 +276,10 @@ box-shadow: 1px 1px 3px #000;
   margin:2px;
 }
 
-red{
+.red{
   background-color:#db3a00;
+}
+
+.yellow{
+  background-color:#dba800;
 }
