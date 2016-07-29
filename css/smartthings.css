@@ -8,6 +8,12 @@ div {
   margin:1px;
 }
 
+input[type="radio"], 
+input[type="checkbox"] {
+    /* hide the inputs */
+    opacity: 0;
+}
+
 input[type="radio"] + label, 
 .button {
     background-color: #00a1db; 
