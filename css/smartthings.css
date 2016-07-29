@@ -14,7 +14,6 @@ input[type="checkbox"] {
     opacity: 0;
 }
 
-input[type="radio"] + label, 
 .button {
     background-color: #00a1db; 
     border: none;
