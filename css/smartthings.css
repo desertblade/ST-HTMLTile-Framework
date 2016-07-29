@@ -8,6 +8,7 @@ div {
   margin:1px;
 }
 
+input[type="radio"] + label, 
 .button {
     background-color: #00a1db; 
     border: none;
