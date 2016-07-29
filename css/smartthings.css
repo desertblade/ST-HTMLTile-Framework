@@ -14,7 +14,7 @@ input[type="checkbox"] {
     opacity: 0;
 }
 
-label[checked]  {
+input[type=checkbox] + label   {
     /* style for the checked/selected state */
     border: 3px solid #444;
     text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
